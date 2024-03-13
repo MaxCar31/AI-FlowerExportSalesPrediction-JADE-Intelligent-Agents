@@ -24,9 +24,14 @@ The project is structured around several agents interacting with each other to m
 
 ### Installation and Execution
 1. Clone the repository to your local machine:
-   
-git clone https://github.com/MaxCar31/AI-FlowerExportSalesPrediction-JADE-Intelligent-Agents
 
+ ## Installation
+
+Clone the repository using:
+
+```bash
+git clone https://github.com/MaxCar31/AI-FlowerExportSalesPrediction-JADE-Intelligent-Agents
+```
 ## License
 This project is licensed under the MIT License - see the `LICENSE.md` file for details.
 
