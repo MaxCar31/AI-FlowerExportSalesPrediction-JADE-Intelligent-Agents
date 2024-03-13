@@ -6,6 +6,9 @@ This project implements an agent-based system to predict future sales for the XY
 ## Project Structure
 The project is structured around several agents interacting with each other to make predictions and sales decisions based on these forecasts. The involved agents are:
 
+![image](https://github.com/MaxCar31/AI-FlowerExportSalesPrediction-JADE-Intelligent-Agents/assets/141116497/bda13e28-4e74-43af-9dd0-ca2b87e91067)
+
+
 - **AH1**: Maximizes an objective function using a genetic algorithm.
 - **AG1**: Passes the maximum value found by AH1 to AG2.
 - **AG2**: Decides whether to proceed with the sale based on the value received from AG1.
