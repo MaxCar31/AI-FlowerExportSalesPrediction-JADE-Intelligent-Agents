@@ -37,4 +37,4 @@ This project is licensed under the MIT License - see the `LICENSE.md` file for d
 
 ## Acknowledgments
 - Special thanks to Ing. Henry Paz Arias MSc. for the guidance and support in developing this project.
-- Thanks to everyone who contributed to the project.
+
