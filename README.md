@@ -33,7 +33,7 @@ The project is structured around several agents interacting with each other to m
 Clone the repository using:
 
 ```bash
-git clone https://github.com/MaxCar31/AI-FlowerExportSalesPrediction-JADE-Intelligent-Agents
+git clone https://github.com/MaxCar31/AI-FlowerExportSalesPrediction-JADE-Intelligent-Agents.git
 ```
 ## License
 This project is licensed under the MIT License - see the `LICENSE.md` file for details.
